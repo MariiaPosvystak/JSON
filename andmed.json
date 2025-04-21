@@ -1,1 +1,19 @@
-{"nimi": "Anna", "vanus": 25, "abielus": false}
+{
+  "nimi": "Anna",
+  "vanus": 25,
+  "abielus": false,
+  "lapsed": null,
+  "koduloomad": [
+    {
+      "nimi": "Miki",
+      "tüüp": "koer",
+      "vanus": 2
+    }
+  ],
+  "autod": [
+    "mark": "Audi",
+    "muudel": "A7",
+    "varv": "must",
+    "number":"453 AJK"
+  ]
+}
