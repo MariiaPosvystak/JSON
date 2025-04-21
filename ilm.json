@@ -1,45 +1,4 @@
 {
-    "coord": {
-        "lon": 24.7535,
-        "lat": 59.437
-    },
-    "weather": [
-        {
-            "id": 701,
-            "main": "Mist",
-            "description": "mist",
-            "icon": "50d"
-        }
-    ],
-    "base": "stations",
-    "main": {
-        "temp": 7.19,
-        "feels_like": 5.08,
-        "temp_min": 7.19,
-        "temp_max": 7.19,
-        "pressure": 1010,
-        "humidity": 93,
-        "sea_level": 1010,
-        "grnd_level": 1008
-    },
-    "visibility": 3500,
-    "wind": {
-        "speed": 3.09,
-        "deg": 310
-    },
-    "clouds": {
-        "all": 100
-    },
-    "dt": 1745232388,
-    "sys": {
-        "type": 1,
-        "id": 1330,
-        "country": "EE",
-        "sunrise": 1745203722,
-        "sunset": 1745257817
-    },
-    "timezone": 10800,
-    "id": 588409,
-    "name": "Tallinn",
-    "cod": 200
+    "cod": "404",
+    "message": "city not found"
 }

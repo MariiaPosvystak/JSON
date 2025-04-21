@@ -3,17 +3,13 @@
   "vanus": 25,
   "abielus": false,
   "lapsed": null,
-  "koduloomad": [
-    {
-      "nimi": "Miki",
-      "tüüp": "koer",
-      "vanus": 2
-    }
-  ],
+  "koduloomad": null,
   "autod": [
-    "mark": "Audi",
-    "muudel": "A7",
-    "varv": "must",
-    "number":"453 AJK"
+    {
+      "mark": "Audi",
+      "muudel": "A7",
+      "varv": "must",
+      "number": "453 AJK"
+    }
   ]
 }
